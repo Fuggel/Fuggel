@@ -1,8 +1,4 @@
-<p align="center">
-   
-![](https://media2.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif)
-
-</p>
+![](https://media2.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif width="200" height="400")
 
 
 <h3 align="center">
