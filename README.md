@@ -1,5 +1,5 @@
 <p align="center">
-![ Alt text](https://media2.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif) 
+![Alt text](https://media2.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif) 
 </p>
 
 <h3 align="center">
