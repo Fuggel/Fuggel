@@ -1,5 +1,6 @@
-
+<p align="center"></p>
 ![](https://media2.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif)
+</p>
 
 
 <h3 align="center">
@@ -14,4 +15,4 @@
 
 - 📫 Reach out to me at: [furkanserdarceylan@gmail.com](mailto:furkanserdarceylan@gmail.com)
 
-<p align="center"></p>
+
