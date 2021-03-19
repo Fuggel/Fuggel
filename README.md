@@ -1,6 +1,6 @@
-<p align="center">
-!(https://media2.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif) 
-</p>
+
+![](https://media2.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif)
+
 
 <h3 align="center">
    I am Furkan, a 21 years old dev lover, <br> mainly interested in web development.
@@ -14,3 +14,4 @@
 
 - 📫 Reach out to me at: [furkanserdarceylan@gmail.com](mailto:furkanserdarceylan@gmail.com)
 
+<p align="center"></p>
