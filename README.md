@@ -1,6 +1,3 @@
-![](https://media2.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif width="200" height="400")
-
-
 <h3 align="center">
    I am Furkan, a 21 years old dev lover, <br> mainly interested in web development.
 </h3>
