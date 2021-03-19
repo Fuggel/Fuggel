@@ -1,4 +1,4 @@
-![ Alt text](https://raw.githubusercontent.com/iamludal/iamludal/master/assets/greetings.gif)
+![ Alt text](file:///C:/Users/Furkan%20Ceylan/Desktop/greetings.gif)
 
 <h3 align="center">
    I am Furkan, a 21 years old dev lover, <br> mainly interested in web development.
