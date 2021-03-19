@@ -8,6 +8,6 @@
 
 - 👯 I’m looking to collaborate with other fellow developers
 
-- 📫 Reach out to me at: [furkanserdarceylan@gmail.com](mailto:furkanserdarceylan@gmail.com)
+- 📫 Contact me: [furkanserdarceylan@gmail.com](mailto:furkanserdarceylan@gmail.com)
 
 
