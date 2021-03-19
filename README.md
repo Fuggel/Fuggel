@@ -1,4 +1,4 @@
-<p align="center"></p>
+<p align="center">
 ![](https://media2.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif)
 </p>
 
