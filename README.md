@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently working on [MOVIECLOUD](https://github.com/Fuggel/MOVIECLOUD) 
+- 🌱 I’m currently working on JavaScript
 
 - 👯 I’m looking to collaborate with other fellow developers
 
