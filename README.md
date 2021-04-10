@@ -8,12 +8,12 @@
 
 - 👯 I’m looking to collaborate with other fellow developers
 
-- 📫 Contact me: [furkanserdarceylan@gmail.com](mailto:furkanserdarceylan@gmail.com)
+- 📫 E-Mail: [furkanserdarceylan@gmail.com](mailto:furkanserdarceylan@gmail.com)
 
 <br>
 
 <h3 align="center">
-   My languages
+   My Skill Set
 </h3>
 
 <hr>
