@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently working on a JavaScript Project
+- 🌱 I’m currently working on my Portfolio
 
 - 👯 I’m looking to collaborate with other fellow developers
 
