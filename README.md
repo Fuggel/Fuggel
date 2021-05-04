@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently working on Interchess (Chess Project)
+- 🌱 I’m currently working on ChangeLife (E-Commerce Site)
 
 - 👯 I’m looking to collaborate with other fellow developers
 
