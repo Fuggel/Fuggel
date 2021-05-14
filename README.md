@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently working on a chess project and learning react
+- 🌱 I’m currently working on a chess project & learning react
 
 - 👯 I’m looking to collaborate with other fellow developers
 
