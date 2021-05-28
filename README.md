@@ -1,5 +1,5 @@
 <h3 align="center">
-   I am Furkan, a 21 years old devlover, <br> mainly interested in front end development.
+   I am Furkan, a 21 years old devlover
 </h3>
 
 <hr>
