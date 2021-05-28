@@ -1,5 +1,5 @@
 <h3 align="center">
-   I am <big>Furkan</big>, <br> a 21 years old devlover
+   I am Furkan, <br> a 21 years old devlover
 </h3>
 
 <hr>
