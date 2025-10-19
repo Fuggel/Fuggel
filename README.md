@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Furkan!
 
-- 👨‍💻 Software Developer
+- 👨‍💻 Software Developer focused on performance, usability & clean code  
 - 🚀 Passionate about building scalable web & mobile apps  
-- 🎯 Focused on performance, usability & clean code  
-- 📚 Lifelong learner: always exploring new technologies and modern tools  
-- ⚡ I enjoy building projects like [Uway](https://github.com/Fuggel/Uway), a real-time navigation app
+- ⚡ I enjoy building projects like [Uway](https://github.com/Fuggel/Uway), a turn-by-turn navigation app
 
 <br/>
 
