@@ -1,11 +1,3 @@
-# 👋 Hi, I'm Furkan!
-
-- 👨‍💻 Software Developer focused on performance, usability & clean code  
-- 🚀 Passionate about building scalable web & mobile apps  
-- ⚡ I enjoy building projects like [Uway](https://github.com/Fuggel/Uway), a turn-by-turn navigation app
-
-<br/>
-
 ![Fuggel's GitHub stats](https://github-readme-stats-gamma-two-96.vercel.app/api?username=Fuggel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 # 💻 Tech Stack
